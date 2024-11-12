@@ -1,4 +1,4 @@
-# 4440-deadlocks-2-threads
+# 4440-deadlocks-example-2-threads
 
 Deadlock example where two threads are waiting on each other to release semaphores:
 ```
